@@ -1,0 +1,15 @@
+HTTP1.1
+
+*HTTP is a top-level application protocol that exchanges information between a client computer and a local or remote web server. 
+*It works on the textual format.
+*It uses requests resource Inlining for use getting multiple pages
+*It added many performance enhancements e.g. caching, request pipelining, keepalive connections, transfer encoding, byte range requests etc.
+*The client browser has to send a request to the server using the method (GET/POST).
+
+HTTP2
+
+*HTTP/2 is the second version of the HTTP protocol aiming to make applications faster, simpler, and more robust by improving many of the drawbacks of the first HTTP version.
+*originally designed to speed up the serving of web pages
+*HTTP2 uses multiplexing using frames and stream IDs to send data over a single TCP connection.
+*HTTP2 Features:Binary,Multiplex,compression,server push, increased security
+*It reduces additional round trip times (RTT), making website load faster without any optimization.

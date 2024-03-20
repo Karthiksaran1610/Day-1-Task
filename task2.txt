@@ -1,0 +1,5 @@
+Objects and its internal representation in Javascript
+
+*A JavaScript object is a collection of unordered properties. Properties can usually be changed, added, and deleted, but some are read only.
+*Number, String, Boolean, null, undefined and symbol these primitive data-types all store a singlevalue each depending on their types.
+*The JavaScript standard allows developers to define objects in a very flexible way, and it is hard to come up with an efficient representation that works
